@@ -1,0 +1,8 @@
+C:\Users\TAP-3D\AppData\Local\Temporary Projects\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+C:\Users\TAP-3D\AppData\Local\Temporary Projects\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\TAP-3D\AppData\Local\Temporary Projects\NeuralNetworks\obj\x86\Debug\NeuralNetworks.exe
+C:\Users\TAP-3D\AppData\Local\Temporary Projects\NeuralNetworks\obj\x86\Debug\NeuralNetworks.pdb
+C:\Users\TAP-3D\documents\visual studio 2010\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+C:\Users\TAP-3D\documents\visual studio 2010\Projects\NeuralNetworks\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+C:\Users\TAP-3D\documents\visual studio 2010\Projects\NeuralNetworks\NeuralNetworks\obj\x86\Debug\NeuralNetworks.exe
+C:\Users\TAP-3D\documents\visual studio 2010\Projects\NeuralNetworks\NeuralNetworks\obj\x86\Debug\NeuralNetworks.pdb
